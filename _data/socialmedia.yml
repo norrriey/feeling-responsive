@@ -1,22 +1,22 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+# name: GitHub
+# url: http://github.com/norrriey
+# class: icon-github
+#  title: Code und mehr...
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+# - name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/norrriey
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "NORRRIEY on TWITTER"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
@@ -28,10 +28,15 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+ - name: Instagram
+   url: http://instagram.com/norrriey
+   class: icon-instagram
+   title: "NORRRIEY on INSTAGRAM"
+
+ - name: Tumblr
+   url: http://norrriey.tumblr.com
+   class: icon-tumblr
+   title: "NORRRIEY on TUMBLR"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/

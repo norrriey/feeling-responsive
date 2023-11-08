@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'NORRRIEY!'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'art, blogging, and stories by an owl called tyto'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'girls and guts and flowers — bits and bobs and thoughts — stories, stories, stories!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> — a theme created with &hearts; by <a href="http://phlow.de/">Phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: tyto
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://phlow.github.io'
+# CHANGE WHEN DOMAIN TRANSFER IS COMPLETE
+url: 'https://norrriey.github.io'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,10 +38,11 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://norrriey.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
+# CHANGE WHEN LOGO IS MADE (11/7: let's see how this itty bitty thing looks lol)
 logo: "logo.png"
 
 # Plugins
@@ -192,8 +193,9 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : norrriey
+    instagram : norrriey
+    tumblr    : norrriey
 
 
 #        ____  _

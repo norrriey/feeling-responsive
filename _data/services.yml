@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "CONTACT AND MORE"
 
-- name: "Contact"
+- name: "CONTACT!"
   url: "/contact/"
-  title: "Contact"
+  title: "DROP A LINE!"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "SUBSCRIBE TO MY RSS FEED!"
 
-- name: "Atom"
+- name: "ATOM"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "SSUBSCRIBE TO MY ATOM FEED!"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+  title: "SITEMAP!"
