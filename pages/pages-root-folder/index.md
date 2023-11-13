@@ -7,6 +7,8 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+title               : "NORRRIEY!"
+subheadline         : "girls and guts and flowers -- bits and bobs and thoughts -- stories, stories, stories!"
 widget1:
   title: "BLOG!"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
