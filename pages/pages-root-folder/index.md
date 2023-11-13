@@ -9,6 +9,7 @@ title               : "NORRRIEY!"
 subheadline         : "girls and guts and flowers -- bits and bobs and thoughts -- stories, stories, stories!"
 header:
    image_fullwidth  : "homepage-header.png"
+   permalink           : "/home/"
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
