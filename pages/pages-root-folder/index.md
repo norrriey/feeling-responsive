@@ -16,7 +16,7 @@ widget2:
   title: "ART!"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: 'All my art, organized by theme and genre!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "WRITING!"
   url: 'https://github.com/Phlow/feeling-responsive'
