@@ -1,12 +1,12 @@
-- title: "HOME!""
+- title: HOME!
   url: "/"
   side: left
 
-- title: "ART!""
+- title: ART!
   url: "/art/"
   side: left
 
-- title: "WRITING"
+- title: WRITING
   url: "/writing/"
   side: left
 #  dropdown:
@@ -59,17 +59,17 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
-- title: "BLOG!
+- title: BLOG!
   url: "/blog/"
   side: left
   dropdown:
-  - title: "ARCHIVE"
+  - title: ARCHIVE
     url: "/blog/archive/"
 
-- title: "LOOKING FOR SOMETHING?"
+- title: LOOKING FOR SOMETHING?
   url: "/search/"
   side: right
 
-- title: "ABOUT"
+- title: ABOUT
   url: "/ABOUT/"
   side: right
