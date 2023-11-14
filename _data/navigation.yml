@@ -66,6 +66,10 @@
   - title: ARCHIVE
     url: "/blog/archive/"
 
+- title: STORE!
+  url: "/store/"
+  side: left
+
 - title: LOOKING FOR SOMETHING?
   url: "/search/"
   side: right
